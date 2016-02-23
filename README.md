@@ -10,4 +10,4 @@
     [self.view addSubview:progressView];
 ```
 ### 截图
-!(截图)[http://ac-j38u14vo.clouddn.com/596c902bcdddde80.png]
+![截图](http://ac-j38u14vo.clouddn.com/596c902bcdddde80.png)
